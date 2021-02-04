@@ -1,9 +1,6 @@
 # Model-View-Controller design pattern
 This is a company system to manage employees build with the use of MVC design pattern. 
 
-## UML diagram
-![uml](https://github.com/zoyakatashinskaya/model-view-controller-student-project/blob/main/uml_mvc.png)
-
 ## Output
 ```
 ########### VIEW ###########
@@ -61,3 +58,6 @@ Select what would you like to print out:
 ########### VIEW ###########
 Name :'Ivan', Surname :'Ivanov', Id :'Qj50WmGY'
 ```
+
+## UML diagram
+![uml](https://github.com/zoyakatashinskaya/model-view-controller-student-project/blob/main/uml_mvc.png)
