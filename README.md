@@ -41,6 +41,22 @@ Please, select an action:
 2) Print information
 3) Update information
 Your choice: 3
+
+UPDATE EMPLOYEE INFO
+Please enter employee's ID: 
+Qj50WmGY
+Select what would you like to update:
+1) Name & Surname
+2) Address
+3) Phone number
+Your choice: 
+2
+Please enter  new address :
+Sprunglistrasse 2, 8102 Kilchberg
+
+########### VIEW ###########
+Employee's new address is Sprunglistrasse 2, 8102 Kilchberg
+
 ```
 
 3) Print information
