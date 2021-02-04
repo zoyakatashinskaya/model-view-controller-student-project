@@ -2,7 +2,7 @@
 This is a company system to manage employees build with the use of MVC design pattern. 
 
 ## UML diagram
-<link>
+![uml](https://github.com/zoyakatashinskaya/model-view-controller-student-project/blob/main/uml_mvc.png)
 
 ## Output
 ```
